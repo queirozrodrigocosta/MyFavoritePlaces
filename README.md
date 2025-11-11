@@ -1,17 +1,18 @@
 # React Native App
 
-Aplicativo React Native com mapa, geolocalização e gerenciamento de favoritos
+- Aplicativo React Native com mapa, geolocalização e gerenciamento de favoritos
 
 ## Instalação
 
-Android 12 (API 31) 
-npm install --legacy-peer-deps
-npm start
+- usar Android 12 (API 31) 
+- npm install --legacy-peer-deps
 
 ## Rodar no Android
 
-npm run android
+- npx @react-native-community/cli@latest init MyFavoritePlaces
+- cd .\MyFavoritePlaces\
+- npm run android
 
 ## Build APK Release
 
-npm run build:android
+- npm run build:android
