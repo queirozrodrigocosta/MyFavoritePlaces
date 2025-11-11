@@ -1,0 +1,21 @@
+{
+  "app": {
+    "name": "My Favorite Places",
+    "slug": "my-favorite-places",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCneCZJOvLzrWJVsD2HgAbsPfc-rGrxMZI"
+        }
+      },
+      "package": "com.example.myfavoriteplaces",
+      "versionCode": 1
+    }
+  }
+}

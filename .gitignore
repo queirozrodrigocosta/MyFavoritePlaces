@@ -1,0 +1,5 @@
+node_modules/
+*.apk
+.gradle/
+.env
+.DS_Store
