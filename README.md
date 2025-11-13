@@ -13,6 +13,3 @@
 
 - npm run android
 
-## Build APK Release
-
-- npm run build:android
